@@ -4,7 +4,7 @@ This repository contains the branding assets used by ARMSX2, made available unde
 ## Credits
 **fffathur:** Original design for icon and other assets
 
-**Vivimagic:** Adaptive icon for Android
+**Vivimagic:** Adaptive icon for Android and Festive icon.
 
 ## Preview
 **Fade (default)**
