@@ -4,7 +4,9 @@ This repository contains the branding assets used by ARMSX2, made available unde
 ## Credits
 **fffathur:** Original design for icon and other assets
 
-**Vivimagic:** Adaptive icon for Android and Festive icon.
+**Vivimagic:** Adaptive icon for Android, Festive icon & the 2026 Refresh.
+Artwork can be viewed on Figma
+https://www.figma.com/design/RVO9r9b39we2OLFoiWktWT/ARMSX2---UI-UX?node-id=3-24
 
 ## Preview
 **Fade (default)**
