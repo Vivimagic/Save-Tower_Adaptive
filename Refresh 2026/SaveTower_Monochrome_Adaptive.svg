@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Foreground" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3840 3840">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #d1d1d1;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4028.63" y1="-1604.47" x2="4271.08" y2="-2024.4" gradientTransform="translate(20374.86 -8630.77) rotate(-180) scale(3.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7b8eb8"/>
+      <stop offset=".7" stop-color="#42588a"/>
+      <stop offset="1" stop-color="#42588a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="2986.53" y1="-2556.86" x2="3222.07" y2="-2964.83" gradientTransform="translate(-9830.86 -8630.77) scale(3.91 -3.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a5a5a"/>
+      <stop offset=".7" stop-color="#292929"/>
+      <stop offset="1" stop-color="#292929" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="4701.72" y1="-2556.86" x2="4934.99" y2="-2960.9" gradientTransform="translate(20374.86 -8630.77) rotate(-180) scale(3.91)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8d8d8d"/>
+      <stop offset=".7" stop-color="#575757"/>
+      <stop offset="1" stop-color="#575757" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1">
+    <g id="g2">
+      <path id="path1" class="cls-3" d="M3535.74-2985.61l776.26,448.1V707.55l-776.26-448.1v-3245.06Z"/>
+    </g>
+  </g>
+  <g id="g2-2" data-name="g2">
+    <path id="path5" class="cls-1" d="M2696.26,873.22l-776.26,448.1v2145.06l776.26-448.1V873.22Z"/>
+    <path id="path1-2" data-name="path1" class="cls-2" d="M1143.74,873.22l776.26,448.1v2145.06l-776.26-448.1V873.22Z"/>
+    <path id="path2" class="cls-4" d="M2696.26,873.22l-776.26-448.1-776.26,448.1,776.26,448.1,776.26-448.1Z"/>
+  </g>
+</svg>
